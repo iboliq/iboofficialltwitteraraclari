@@ -4,7 +4,7 @@
 // @description  Takip etme, takipten çıkma, favoriye ekleme, RT kapatma, dm gönderme ve daha fazlası.
 // @author       İbrahim DİNÇ
 // @match        https://twitter.com/*
-// @grant        none
+// @grant        https://github.com/iboliq/iboofficialltwitteraraclari/blob/master/twaraclar
 // @require      https://code.jquery.com/jquery-1.8.3.min.js
 // @require      
 // ==/UserScript==
